@@ -7,3 +7,10 @@ h1 {
 p {
   color: red;
 }
+
+li {
+    color: rebeccapurple;
+    background: yellow;
+    text-align: center;
+    text-shadow:  2px 2px 3px purple;
+}
